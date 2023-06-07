@@ -1,0 +1,2 @@
+i went with the dark and teal theme asi like the color combination. i went for a techy font Audiobile.
+main challenge was trying to make a responsive site without using javascript.
